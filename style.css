@@ -1,0 +1,13 @@
+h1,h2,div{
+    text-align: center;
+    color: yellow;
+}
+#score,#game-status{
+    color: red;
+}
+body{
+    background-image: url("1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
